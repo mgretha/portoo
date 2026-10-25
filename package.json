@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-margaretha",
+  "version": "2.0.0",
+  "description": "Personal Web Portfolio of Margaretha Eka Melani Saputra (Retha)",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "python3 -m http.server 3000"
+  },
+  "author": "Margaretha Eka Melani Saputra",
+  "license": "MIT"
+}
