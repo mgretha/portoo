@@ -2,7 +2,7 @@
 
 Website portofolio pribadi **Margaretha Eka Melani Saputra (Retha)** — mahasiswa Teknik Komputer Universitas Brawijaya dan Frontend Developer Intern di Ashira Group.
 
-🌐 **Live:** https://mgretha.github.io
+🌐 **Live:** https://mgretha.github.io/portoo/
 
 ## Isi
 
